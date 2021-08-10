@@ -1,7 +1,7 @@
 # Gitcoin: 3) Issue A Smart Contract Call To The Deployed Smart Contract
 
 ## 1. A screenshot of the console output immediately after you have successfully issued a smart contract call.
-![image info](task-3-call-contract)
+![image info](task-3-call-contract.png)
 
 ## 2. The transaction hash from the console output (in text format).
 0x5b6ce55b5c3ab828c82c69c965ca5a0dc65f3db939ff029dcb58d17ee8eb71ea
